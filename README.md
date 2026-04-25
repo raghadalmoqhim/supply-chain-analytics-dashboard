@@ -57,9 +57,9 @@ Overall, the analysis shows that success in supply chain management depends on b
 ## 📊 Dashboard Pages
 
 ### 🔹 Overview
-![Overview](dashboard/overview.png)
-
 Provides a high-level summary of KPIs, revenue distribution, and shipping performance.
+
+![Overview](dashboard/overview.png)
 
 ---
 
